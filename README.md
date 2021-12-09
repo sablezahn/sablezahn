@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sablezahn
-- 👀 I’m interested in ... python, django, react
+- 👀 I’m interested in ... python, django, wagtail
 - 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... python, best programming practices
+- 💞️ I’m looking to collaborate on ... python,django,wagtail & best programming practices
 - 📫 How to reach me ... sablezahn@gmail.com
 
 <!---

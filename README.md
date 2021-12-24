@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sablezahn
+- 👋 Hi, I’m Fir
 - 👀 I’m interested in ... python, django, wagtail
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... python,django,wagtail & best programming practices
